@@ -1,4 +1,4 @@
-Open Track
+Open Track - 
 A Python program that manages contributors and tracks issues for an open source project.
 
 What it does

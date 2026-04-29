@@ -38,7 +38,7 @@ Open Track is a Python program that collects contributor and issue data using `i
 | `issues.csv` | Issue data in CSV format |
 
 ## Language
-Python 3 — no external libraries required
+Python 3
 
 ---
 
